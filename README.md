@@ -1,5 +1,5 @@
 # Lorenz-System
-<video src='https://github.com/Ratherman/Lorenz-System/blob/main/img/Lorenz_Quick.mp4' width=180/>
+<video src='https://github.com/Ratherman/Lorenz-System/blob/main/img/Lorenz_Quick.mp4' width=180></video>
 
 # Installation 
 ```

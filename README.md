@@ -1,5 +1,5 @@
 # Lorenz-System
-<img src='https://github.com/Ratherman/Lorenz-System/blob/main/img/Lorenz_gif.gif' width=400></img>
+<img src='https://github.com/Ratherman/Lorenz-System/blob/main/img/Lorenz_gif.gif' width=600></img>
 
 # Installation 
 ```
